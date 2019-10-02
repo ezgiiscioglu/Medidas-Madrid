@@ -34,8 +34,8 @@ In this kernel we will look these chapters:
 En este kernel veremos estos capítulos:  
 
 1. Statistical analysis - Estadística descriptiva  
-    Numeric attributes - Medidas cuantitativas  
-    Categorical attributes - Variables Categóricas  
+    - Numeric attributes - Medidas cuantitativas  
+    - Categorical attributes - Variables Categóricas  
 2. Correlation - Correlación  
     Attribute selection - Selección de atributos  
     Lineal correlation - Regresión lineal  
