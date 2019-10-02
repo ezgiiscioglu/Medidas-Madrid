@@ -1,6 +1,8 @@
 # Medidas Madrid - Measurements of Madrid
 
-In this kernel we will examine dataset (dfMedidas1.csv). This dataset contains the measurements of one year of several attributes related with the air quality of city of Madrid. There are 365 rows (one per day). We will apply machine learning algorithms over variables within this data set.
+In this kernel we will examine dataset (dfMedidas1.csv). This dataset contains the measurements of one year of several attributes related with the air quality of city of Madrid. There are 365 rows (one per day). We will apply machine learning algorithms over variables within this data set.  
+
+En este kenrnel examinaremos el conjunto de datos (dfMedidas1.csv). Este conjunto de datos contiene las mediciones de un año de varios atributos relacionados con la calidad del aire de la ciudad de Madrid. Hay 365 filas (una por día). Aplicaremos algoritmos de aprendizaje automático sobre variables dentro de este conjunto de datos.
 
 **Columns:**  
 
@@ -29,19 +31,20 @@ NMCH: Mean Concentration of the NMCH
 XXX_MAX: Maximum value of the concentration of XXX substance  
 
 In this kernel we will look these chapters:  
+En este kernel veremos estos capítulos:  
 
-1. Statistical analysis  
-    Numeric attributes  
-    Categorical attributes  
-2. Correlation  
-    Attribute selection  
-    Lineal correlation  
-    Non-lineal correlation  
-    Correlation with categorical attributes  
-    General lineal models (GLM)  
-3. Classification  
-    Linear Discriminant Analysis  
-    Probabilistic Classifiers  
-    Bayesian Networks  
-    Decision Trees  
-    Meta-Algorithms  
+1. Statistical analysis - Estadística descriptiva  
+    Numeric attributes - Medidas cuantitativas  
+    Categorical attributes - Variables Categóricas  
+2. Correlation - Correlación  
+    Attribute selection - Selección de atributos  
+    Lineal correlation - Regresión lineal  
+    Non-lineal correlation - Regresión no Lineal  
+    Correlation with categorical attributes - Regresión de atributos no continuos  
+    General lineal models (GLM) - Modelos lineales generalizados  
+3. Classification - Clasificación  
+    Linear Discriminant Analysis - LDA  
+    Probabilistic Classifiers - Clasificadores probabilísticos  
+    Bayesian Networks - Redes Bayesianas  
+    Decision Trees - Árboles de Decisión  
+    Meta-Algorithms - Meta-algoritmos  
