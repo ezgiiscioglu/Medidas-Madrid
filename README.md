@@ -1,4 +1,4 @@
-# Medidas Madrid - Measurements of Madrid
+# Medidas de Madrid - Measurements of Madrid
 
 In this kernel we will examine dataset (dfMedidas1.csv). This dataset contains the measurements of one year of several attributes related with the air quality of city of Madrid. There are 365 rows (one per day). We will apply machine learning algorithms over variables within this data set.  
 
@@ -34,8 +34,8 @@ In this kernel we will look these chapters:
 En este kernel veremos estos capítulos:  
 
 1. Statistical analysis - Estadística descriptiva  
-    - Numeric attributes - Medidas cuantitativas  
-    - Categorical attributes - Variables Categóricas  
+    Numeric attributes - Medidas cuantitativas  
+    Categorical attributes - Variables Categóricas  
 2. Correlation - Correlación  
     Attribute selection - Selección de atributos  
     Lineal correlation - Regresión lineal  
