@@ -3,11 +3,12 @@
 In this kernel we will examine dataset (dfMedidas1.csv). This dataset contains the measurements of one year of several attributes related with the air quality of city of Madrid. There are 365 rows (one per day). We will apply machine learning algorithms over variables within this data set.
 
 **Columns:**  
-Dia: day of the year  
-Dia_mes: day of the month  
-Mes: month  
-Dia_sem: week day  
-Lluvia: amount of rain  
+
+Dia: Day of the year  
+Dia_mes: Day of the month  
+Mes: Month  
+Dia_sem: Week day  
+Lluvia: Amount of rain  
 Fecha: Date in format YYYY-MM-DD  
 T_MAX: Maximum of the temperature of the day  
 T_MIN: Minimum of the temperature of the day  
