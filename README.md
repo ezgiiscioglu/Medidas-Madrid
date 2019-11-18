@@ -1,3 +1,5 @@
+# Medidas de Madrid - Measurements of Madrid  
+
 In this kernel we will examine dataset (dfMedidas1.csv). This dataset contains the measurements of one year of several attributes related with the air quality of city of Madrid. There are 365 rows (one per day). We will apply machine learning algorithms over variables within this data set.
 
 En este kernel examinaremos el conjunto de datos (dfMedidas1.csv). Este dataset contiene las mediciones de un año de varios atributos relacionados con la calidad del aire de la ciudad de Madrid. Hay 365 filas (una por día). Aplicaremos algoritmos de aprendizaje automático sobre variables dentro de este dataset.
@@ -28,8 +30,8 @@ Columns:
 - NMCH: Mean Concentration of the NMCH
 - XXX_MAX: Maximum value of the concentration of XXX substance
 
-> In this kernel we will look these chapters:
-> En este kernel veremos estos capítulos:
+> In this kernel we will look these chapters:  
+> En este kernel veremos estos capítulos:  
 
 1. [Statistical analysis - Estadística descriptiva]()
 - Numeric attributes - Medidas cuantitativas
