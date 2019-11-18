@@ -33,22 +33,22 @@ Columns:
 > In this kernel we will look these chapters:  
 > En este kernel veremos estos capítulos:  
 
-1. [Statistical analysis - Estadística descriptiva]()
+1. [Statistical analysis - Estadística descriptiva](https://github.com/ezgiiscioglu/Medidas-Madrid/blob/master/Estad%C3%ADstica-descriptiva.ipynb)
 - Numeric attributes - Medidas cuantitativas
 - Categorical attributes - Variables Categóricas
-2. [Correlation - Correlación]()
+2. [Correlation - Correlación](https://github.com/ezgiiscioglu/Medidas-Madrid/blob/master/Correlation.ipynb)
 - Attribute selection - Selección de atributos
 - Lineal correlation - Regresión lineal
 - Non-lineal correlation - Regresión no Lineal
 - Correlation with categorical attributes - Regresión de atributos no continuos
 - General lineal models (GLM) - Modelos lineales generalizados
-3. [Classification - Clasificación]()
+3. [Classification - Clasificación](https://github.com/ezgiiscioglu/Medidas-Madrid/blob/master/Clasificaci%C3%B3n.ipynb)
 - Linear Discriminant Analysis - LDA
 - Probabilistic Classifiers - Clasificadores probabilísticos
 - Bayesian Networks - Redes Bayesianas
 - Decision Trees - Árboles de Decisión
 - Meta-Algorithms - Meta-algoritmos
-4. [Clustering - Agrupamiento. Clustering]()
+4. [Clustering - Agrupamiento. Clustering](https://github.com/ezgiiscioglu/Medidas-Madrid/blob/master/Clustering.ipynb)
 - Hierarchical Clustering - Agrupación Jerárquica
 - Partition Grouping - Agrupamiento por Particionamiento
 - Grouping based on models - Agrupamiento basado en modelos
